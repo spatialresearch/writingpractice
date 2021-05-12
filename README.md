@@ -1,5 +1,7 @@
 # writing
 a summary of a writing practice in progress, between drafts and published states 
+
+<br>
 can i write anything i want here <br>
 does it have to be structured <br>
 what else can i do here <br>
