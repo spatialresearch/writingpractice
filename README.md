@@ -1,4 +1,2 @@
 # writing
-a summary of a writing practice in progress, between drafts and published states 
-<br>
-in markdown
+a summary of a writing practice in progress, between drafts and published states in markdown
