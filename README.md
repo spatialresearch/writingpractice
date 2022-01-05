@@ -3,5 +3,5 @@ a summary of a writing practice in progress, between drafts and published states
 
 * daily sentences
 * weekly audits
-* monthly reviews
-* annual conversations
+* monthly reviews | substack
+* annual conversations | kindle
