@@ -1,2 +1,2 @@
-# locating a spatial research writing practice
+# locating a writing practice
 a summary of a writing practice in progress, between drafts and published states in markdown
